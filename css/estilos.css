@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #16697a;
+    height: 100%;
+    padding: 20px;
+}
+
+main article {
+    background-color: #489fb5;
+}
+
+main aside {
+    background-color: #82c0cc;
+}
+
+section div {
+    background-color: #ede7e3;
+}
+
+footer {
+    background-color: #ffa62b;
+    height: 68vh;
+}
